@@ -10,5 +10,8 @@ background-color: black;
 </head>
 <body id=h2>
 Hello HAHAHAHAHAHA
+<footer>
+<p>Timo Reschke, Copyright &copy; 2022</p>
+</footer>
 </body>
 </html>
