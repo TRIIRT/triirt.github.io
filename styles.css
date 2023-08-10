@@ -3,6 +3,7 @@ body{
   background-color: black;
 }
 footer{
-  padding:40%;
-  margin:30px;
+  padding: 0%;
+  margin: 30px;
+  text-align: center;
 }
